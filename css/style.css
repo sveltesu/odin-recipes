@@ -1,6 +1,9 @@
 body {
     color:olive;
-    background-color:rgb(182, 228, 236)
+    background-color:rgb(182, 228, 236);
+    font-family:"Lucida Console", "Courier New", monospace;
+    
+
 }
 h1, h2 {
     color:rgb(189, 131, 25);
