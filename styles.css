@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    font-family: Impact, serif;
+}
+img {
+    height: auto;
+    width: 100%;
+    
+}
+ul {
+    margin-top: -176px;
+}
+ul>li {
+    list-style: none;
+    color: green;
+    font-weight: 700;
+}
+a {
+    color:green;
+}
+a:hover {
+    background-color: orangered;
+    color: whitesmoke;
+}
+h1 {
+    color:green;
+    text-align: center;
+    background-color: whitesmoke;
+    margin: 0;
+}
